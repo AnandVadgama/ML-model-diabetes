@@ -4,4 +4,3 @@ pydantic
 pickle5
 scikit-learn
 numpy
-python-3.12.9
